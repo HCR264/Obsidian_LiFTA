@@ -1,0 +1,1 @@
+Queda definida como $$F(T,V,N) = -kT\ln(Z) = -\frac{1}{\beta}\ln(Z)$$ ó $$F = E - TS$$

@@ -1,0 +1,247 @@
+{
+  "main": {
+    "id": "058def3ca4225d29",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ab669472a57597d",
+        "type": "tabs",
+        "dimension": 72.57425742574257,
+        "children": [
+          {
+            "id": "9e09dc35ec9ba736",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mecánica Cuántica II/Traslaciones/Invarianza ante Transformaciones.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dce66cb45b02c932",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mecánica Cuántica II/Traslaciones/Invarianza ante Transformaciones.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4dbdca2b8df82cfe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mecánica Cuántica II/Traslaciones/Invarianza ante Traslaciones Finítas en Teoría Cuántica.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "060d4a3f6cc23ecd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mecánica Cuántica II/Rotaciones/Rotaciones en 2 Dimensiones.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "80573a43bd38ac52",
+        "type": "tabs",
+        "dimension": 27.425742574257427,
+        "children": [
+          {
+            "id": "744f109a93e00f9d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "76dd30e5197b19b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "ffd498833a8c1dd4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d69e49bfb55192e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e8ace048728785e5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "599059a54ad8b699",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 325.5
+  },
+  "right": {
+    "id": "05da841b85dcf4ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "7838bc5faea21ced",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e59b61b1f32db016",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Mecánica Cuántica II/Rotaciones/Rotaciones en 2 Dimensiones.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "024a698851969d60",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Mecánica Cuántica II/Rotaciones/Rotaciones en 2 Dimensiones.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e3937df459e6fc35",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "dda4277082553d9e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Mecánica Cuántica II/Rotaciones/Rotaciones en 2 Dimensiones.md"
+              }
+            }
+          },
+          {
+            "id": "2d8a8447f86b711a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "060d4a3f6cc23ecd",
+  "lastOpenFiles": [
+    "Obsidian",
+    "Mecánica Cuántica II/Traslaciones/Invarianza ante Traslaciones Infinitesimales en Teoría Cuántica.md",
+    "Mecánica Cuántica II/Traslaciones/Invarianza ante Traslaciones Finítas en Teoría Cuántica.md",
+    "Mecánica Cuántica II/Traslaciones/Invarianza ante Transformaciones.md",
+    "Mecánica Cuántica II/Traslaciones/Invarianza en Traslaciones en más Dimensiones.md",
+    "Mecánica Cuántica II/Rotaciones/Rotaciones en 2 Dimensiones.md",
+    "Mecánica Cuántica II/Transformación Activa.md",
+    "Mecánica Cuántica II/Notas de Estudio.md",
+    "Mecánica Cuántica II/Rotaciones",
+    "Mecánica Cuántica II/Traslaciones",
+    "Welcome.md",
+    "Mecánica Cuántica II/T01_MCII_358335.pdf",
+    "Mecánica Cuántica II/Transformación Pasiva.md",
+    "Constante de Boltzman.md",
+    "Física Estadísitca/Sengunda Ley de la Termodinámica/Energía Libre de Helmholtz.md",
+    "2024-09-10.md",
+    "Untitled.canvas",
+    "Física Estadísitca/Sengunda Ley de la Termodinámica/Entropía en un Ensamble Canónico.md",
+    "Mecánica Cuántica II",
+    "Física Estadísitca/Sengunda Ley de la Termodinámica/Energía Promedio en un Baño Térmico.md",
+    "Física Estadísitca/Notas de Estudio.md",
+    "Física Estadísitca/Sengunda Ley de la Termodinámica/Ensamble Canónico.md",
+    "Física Estadísitca/Sengunda Ley de la Termodinámica/Función de Partición.md",
+    "Física Estadísitca/Sengunda Ley de la Termodinámica/Baño Térmico.md",
+    "Física Estadísitca/Sengunda Ley de la Termodinámica/Equilibrio Térmico.md",
+    "Física Estadísitca/Sengunda Ley de la Termodinámica",
+    "Física Estadísitca/Sengunda Ley de la Termodinámica/Ley de Boltzman.md",
+    "Física Estadísitca/Sengunda Ley de la Termodinámica/Peso Estadístico.md",
+    "Física Estadísitca/Sengunda Ley de la Termodinámica/Microestado.md",
+    "Física Estadísitca/Sengunda Ley de la Termodinámica/Macroestado.md",
+    "Entropía.md",
+    "Física Estadísitca/Sengunda Ley de la Termodinámica/Principio de Clausius.md",
+    "Física Estadísitca"
+  ]
+}

@@ -1,0 +1,5 @@
+- Consideramos un sistema en un baño térmico a temperatura constante con energía total $E_0$.
+- Vamos a calcular la probabilidad de que esté en un microestádo con energía $E_r$, la cual es $$P_r=cte.\Omega(E_0-E_r)=\frac{\Omega(E_0-E_r)}{\sum_r \Omega(E_0-E_r)}$$
+- Usando [[Ley de Boltzman||Boltzman]] (de donde despejamos $\Omega$) obtenemos $$P_r=cte.\exp\bigg[\frac{S(E_0-E_r)}{k}\bigg]$$
+- Se hace una expación en serio de Taylor a primer orden, llegando a $$\frac{1}{k}S(E_0-E_r)=\frac{1}{k}S(E_0)-\frac{E_r}{kT}=\frac{1}{k}S(E_0)-\beta E_r$$ donde $\beta\equiv\frac{1}{kT}$.
+- Así, la probabilidad es $$P_r=\frac{e^{-\beta E_r}}{\sum_r e^{-\beta E_r}}=\frac{e^{-\beta E_r}}{Z}$$ donde $Z$ es la [[Función de Partición||función de partición]]. Este resultado es conocido como la ==distribución de Boltzman== y es probabilidad de que un sistema puesto en un baño térmico a temperatura $T$ pueda estar en un estado particular.

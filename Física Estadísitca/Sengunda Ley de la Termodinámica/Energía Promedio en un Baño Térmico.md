@@ -1,0 +1,3 @@
+Usando la [[Baño Térmico|distribución de Boltzman]] podemos hallar la energía media.
+$$\bar{E}=\sum_r P_rE_r=\frac{1}{Z}\sum_r e^{-\beta E_r} E_r = -\frac{1}{Z}\frac{\partial }{\partial \beta}\bigg(\sum_re^{-\beta E_r}\bigg)=-\frac{1}{Z}\frac{\partial Z}{\partial \beta}=-\frac{\partial\ln(Z)}{\partial\beta}$$
+En resumen, llegamos a que $$\bar{E} = -\frac{\partial \ln(Z)}{\partial \beta}$$Para este tipo de situaciones (ensambles canónicos) se usa [[Energía Libre de Helmholtz|Helmholtz]] en vez de la función de partición.

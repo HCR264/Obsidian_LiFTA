@@ -1,0 +1,2 @@
+Sea $\Omega$ un operador sobre el cual actúa una transformación $T$. Decimos que $\Omega$ es invariante si $$T^\dagger \Omega T = \Omega$$
+De aquí se desprende que $\Omega T = T \Omega$, por lo tanto, ==es invariante si los operadores conmutan== $$[\Omega, T] = 0$$

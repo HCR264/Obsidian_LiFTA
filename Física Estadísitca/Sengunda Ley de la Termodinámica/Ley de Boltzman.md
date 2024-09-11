@@ -1,0 +1,2 @@
+- La entropía de un sistema en el macroestado $(E,V,N,\alpha)$ está definido por la ecuación $$S(E,N,V,\alpha) = k \ln(\Omega(E,N,V,\alpha))$$ donde $k$ es la [[Constante de Boltzman|constante de Boltzman]].
+- 

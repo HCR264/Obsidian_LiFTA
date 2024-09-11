@@ -1,0 +1,1 @@
+En Mecánica Cuántica, le conocemos como transformación pasiva a una trasformación que actúa sobre un operador, como el operador posición o el operador momento $$\hat{X} \to T^\dagger(\epsilon)\hat{X}T(\epsilon)$$

@@ -1,0 +1,1 @@
+- La entropía de un sistema aislado siempre se incrementa y en el estado de equilibrio la entropía alcanza su valor máximo. 

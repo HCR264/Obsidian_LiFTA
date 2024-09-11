@@ -1,0 +1,3 @@
+- Es el estado de un sistema en términos de sus propiedades microscópicas.
+- Se encuentra definido por las constricciones que se generan de las variables del sistema (es decir, de los valores que pueden tomar).
+- Cada macroestado comprende un número perfectamente definido de [[Microestado|microestados]] del sistema.

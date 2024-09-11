@@ -1,0 +1,2 @@
+- Se denota $\Omega(E,V,N,\alpha)$ como el peso estadístico de la probabilidad termodinámica. Aunque realmente no es una probabilidad en sentido ordinario.
+- 
